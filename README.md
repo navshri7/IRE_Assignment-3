@@ -9,10 +9,10 @@ code/
   src/              common.py, part1_exact.py, part2_benchmark.py, part3_compression.py,
                     part4_drift.py (+ its data generator), make_assets.py, download_data.py
   tests/            unit tests for the recall function
-  hypothesis.md     hypotheses for Parts 3 and 4 (committed before the experiments)
-results/            results.csv, figures/, tables.md, system_info.txt  (full run)
+  hypothesis.md     hypotheses for Parts 3 and 4 
+results/            results.csv, figures/, tables.md, system_info.txt 
 ai_log/             ai_statement.md and the AI prompts/responses
-data/               downloaded datasets (NOT submitted; created by run_all.sh)
+data/               downloaded datasets 
 ```
 
 ## Setup
